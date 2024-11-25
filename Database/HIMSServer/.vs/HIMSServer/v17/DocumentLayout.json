@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAB44E-D04D-4F0A-AB5D-A0B0D08EA6D5}|PatientLibrary\\PatientLibrary.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\patientlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECAB44E-D04D-4F0A-AB5D-A0B0D08EA6D5}|PatientLibrary\\PatientLibrary.csproj|solutionrelative:patientlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\himsserver\\controllers\\patientapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|solutionrelative:himsserver\\controllers\\patientapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\himsserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|solutionrelative:himsserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\himsserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|solutionrelative:himsserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\himsserver\\checksecuritymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|solutionrelative:himsserver\\checksecuritymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\himsserver\\views\\patient\\displaypatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|solutionrelative:himsserver\\views\\patient\\displaypatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\himsserver\\views\\patient\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|solutionrelative:himsserver\\views\\patient\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC5FAE-7735-4973-9CBE-FD8A06F4DFD8}|RepositoryPatient\\RepositoryPatient.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\repositorypatient\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCC5FAE-7735-4973-9CBE-FD8A06F4DFD8}|RepositoryPatient\\RepositoryPatient.csproj|solutionrelative:repositorypatient\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\himsserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|solutionrelative:himsserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAB44E-D04D-4F0A-AB5D-A0B0D08EA6D5}|PatientLibrary\\PatientLibrary.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\patientlibrary\\patientlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CECAB44E-D04D-4F0A-AB5D-A0B0D08EA6D5}|PatientLibrary\\PatientLibrary.csproj|solutionrelative:patientlibrary\\patientlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\himsserver\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|solutionrelative:himsserver\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\himsserver\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|solutionrelative:himsserver\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|d:\\maheshwari batch\\mvc(asp.net)\\himsserver\\himsserver\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1505B6F5-F2B6-4507-8B10-42E5FD05920F}|HIMSServer\\HIMSServer.csproj|solutionrelative:himsserver\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\PatientLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "PatientLibrary\\Class1.cs",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\PatientLibrary\\Class1.cs",
+              "RelativeToolTip": "PatientLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:15:21.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientAPIController.cs",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Controllers\\PatientAPIController.cs",
+              "RelativeDocumentMoniker": "HIMSServer\\Controllers\\PatientAPIController.cs",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Controllers\\PatientAPIController.cs",
+              "RelativeToolTip": "HIMSServer\\Controllers\\PatientAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:10:17.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HIMSServer\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HIMSServer\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T11:36:25.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckSecurityMiddleware.cs",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\CheckSecurityMiddleware.cs",
+              "RelativeDocumentMoniker": "HIMSServer\\CheckSecurityMiddleware.cs",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\CheckSecurityMiddleware.cs",
+              "RelativeToolTip": "HIMSServer\\CheckSecurityMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:15:27.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddPatient.cshtml",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Views\\Patient\\AddPatient.cshtml",
+              "RelativeDocumentMoniker": "HIMSServer\\Views\\Patient\\AddPatient.cshtml",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Views\\Patient\\AddPatient.cshtml",
+              "RelativeToolTip": "HIMSServer\\Views\\Patient\\AddPatient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T11:14:33.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Program.cs",
+              "RelativeDocumentMoniker": "HIMSServer\\Program.cs",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Program.cs",
+              "RelativeToolTip": "HIMSServer\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:44:42.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\RepositoryPatient\\Class1.cs",
+              "RelativeDocumentMoniker": "RepositoryPatient\\Class1.cs",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\RepositoryPatient\\Class1.cs",
+              "RelativeToolTip": "RepositoryPatient\\Class1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:46:59.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\appsettings.json",
+              "RelativeDocumentMoniker": "HIMSServer\\appsettings.json",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\appsettings.json",
+              "RelativeToolTip": "HIMSServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T15:08:45.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayPatient.cshtml",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Views\\Patient\\DisplayPatient.cshtml",
+              "RelativeDocumentMoniker": "HIMSServer\\Views\\Patient\\DisplayPatient.cshtml",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Views\\Patient\\DisplayPatient.cshtml",
+              "RelativeToolTip": "HIMSServer\\Views\\Patient\\DisplayPatient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T14:48:00.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientLibrary.csproj",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\PatientLibrary\\PatientLibrary.csproj",
+              "RelativeDocumentMoniker": "PatientLibrary\\PatientLibrary.csproj",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\PatientLibrary\\PatientLibrary.csproj",
+              "RelativeToolTip": "PatientLibrary\\PatientLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:56:48.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HIMSServer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HIMSServer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:48:41.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HIMSServer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HIMSServer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T14:47:48.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HIMSServer\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\Maheshwari Batch\\MVC(ASP.Net)\\HIMSServer\\HIMSServer\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HIMSServer\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:25:54.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

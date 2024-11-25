@@ -1,0 +1,17 @@
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\bin\Debug\net8.0\RepositoryPatient.deps.json
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\bin\Debug\net8.0\RepositoryPatient.runtimeconfig.json
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\bin\Debug\net8.0\RepositoryPatient.dll
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\bin\Debug\net8.0\RepositoryPatient.pdb
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\bin\Debug\net8.0\PatientLibrary.dll
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\bin\Debug\net8.0\PatientLibrary.pdb
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\RepositoryPatient.csproj.AssemblyReference.cache
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\RepositoryPatient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\RepositoryPatient.AssemblyInfoInputs.cache
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\RepositoryPatient.AssemblyInfo.cs
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\RepositoryPatient.csproj.CoreCompileInputs.cache
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\Reposito.EBDA541B.Up2Date
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\RepositoryPatient.dll
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\refint\RepositoryPatient.dll
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\RepositoryPatient.pdb
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\RepositoryPatient.genruntimeconfig.cache
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\RepositoryPatient\obj\Debug\net8.0\ref\RepositoryPatient.dll

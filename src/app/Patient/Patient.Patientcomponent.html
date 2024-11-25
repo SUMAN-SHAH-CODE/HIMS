@@ -1,0 +1,21 @@
+Patient Name :- <input [(ngModel)]="patientObj.name" type="text" name="" id=""><br>
+Patient code :- <input [(ngModel)]="patientObj.code" type="text" name="" id=""><br>
+Patient age :- <input [(ngModel)]="patientObj.age" type="text" name="" id=""><br>
+<input type="button" value="Add Patinet" (click)="AddPatient()"> 
+<input type="button" value="SubmitTOServer" (click)="SubmitTOServer()"><br>
+Search :- <input [(ngModel)]="patientObj.Id" type="text">
+<input type="button" value="Search" (click)="SearchById()">
+
+<table style="width: 50%;padding: auto;background-origin: auto;">
+    <tr>
+      <th >Name</th>
+      <th >Code</th>
+      <th >Age</th>
+    </tr>
+    <tr *ngFor="let pat of patientObjs">
+      <td >{{pat.name}}</td>
+      <td >{{pat.code}}</td>
+      <td >{{pat.age}}</td>
+    </tr>
+  </table>
+

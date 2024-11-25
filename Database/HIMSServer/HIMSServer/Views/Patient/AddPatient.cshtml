@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddPatient</title>
+</head>
+<body>
+
+    <form method="post" action="/Patient/AddPatient">
+        <!--button click garda form ma post hunuparyo r  patientCOnteolleer/AddPatoemt ,ma janxa which return view of Patient DisplayPatient-->
+        Enter Patient<br />
+        Patient Name: <input type="text" name="name" value="" /><br /><!--name ko Patient name same hunu paryo-->
+        Patient Code : <input type="text" name="code" value="" /> <br />
+        Patient age : <input type="text" name="age" value="" /><br />
+        <input type="submit" name="name" value="AddPatient" />
+   </form>
+   
+    
+</body>
+</html>

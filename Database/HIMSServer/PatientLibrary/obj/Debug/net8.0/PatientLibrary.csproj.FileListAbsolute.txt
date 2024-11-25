@@ -1,0 +1,11 @@
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\bin\Debug\net8.0\PatientLibrary.deps.json
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\bin\Debug\net8.0\PatientLibrary.dll
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\bin\Debug\net8.0\PatientLibrary.pdb
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\obj\Debug\net8.0\PatientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\obj\Debug\net8.0\PatientLibrary.AssemblyInfoInputs.cache
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\obj\Debug\net8.0\PatientLibrary.AssemblyInfo.cs
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\obj\Debug\net8.0\PatientLibrary.csproj.CoreCompileInputs.cache
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\obj\Debug\net8.0\PatientLibrary.dll
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\obj\Debug\net8.0\refint\PatientLibrary.dll
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\obj\Debug\net8.0\PatientLibrary.pdb
+D:\Maheshwari Batch\MVC(ASP.Net)\HIMSServer\PatientLibrary\obj\Debug\net8.0\ref\PatientLibrary.dll
